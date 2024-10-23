@@ -1,2 +1,2 @@
-# ScientificDV_Activity6
+# ScientificDV_Activity6_Datasets
 Class Activity
